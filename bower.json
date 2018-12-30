@@ -1,0 +1,23 @@
+{
+  "name": "testengineproject",
+  "authors": [
+    "Rajat <37063652+rajatmudgil@users.noreply.github.com>"
+  ],
+  "description": "this is online exam engine",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.7.5",
+    "bootstrap": "^4.1.3",
+    "jquery": "^3.3.1",
+    "angularfire": "^2.3.0"
+  }
+}
