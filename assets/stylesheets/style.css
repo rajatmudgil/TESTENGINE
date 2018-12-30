@@ -1,0 +1,47 @@
+body{
+    background-color: aliceblue;
+}
+#prev{
+    color:black;
+}
+#contactme{
+    margin-top: 6%;
+    text-align: center;
+    margin-bottom: 5%;
+}
+#contactme h1{
+    margin-bottom: 5%;
+} 
+#contactme p{
+    font-style: italic;
+    font-weight: bold;
+    letter-spacing: 2px;
+    text-align: center;
+    padding: 1.2em 1em;
+    box-shadow: -3px 7px 39px -5px rgba(0, 0, 0, 0.38);
+}
+#contactme .infolist1 ul{
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+#contactme .infolist1 ul li{
+    font-size: 0.9em;
+    font-weight:500;
+    margin-bottom: 0.65em;
+    color: #0c253b;
+    letter-spacing: 1px;
+    text-align: left;
+    letter-spacing: 2px;
+    padding: 1.2em 1em;
+    box-shadow: -3px 7px 39px -5px rgba(0, 0, 0, 0.38);
+}
+#contactme .infolist1 ul li a{
+    color: black;
+}
+#contactme .infolist1 ul li i{
+    margin-right: 6%;
+}
+#contactme iframe{
+    box-shadow: -3px 7px 39px -5px rgba(0, 0, 0, 0.38);
+}

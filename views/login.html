@@ -1,0 +1,15 @@
+<div class="col-sm-12" ng-controller="usercontroller">
+        <h3 class="alert-success">Login Form</h3>
+        <h3 class="alert-info">{{message}}</h3>
+        <div class="form-group">
+            <label for="">Userid</label>
+            <input ng-model="user.userid" type="text" class="form-control" placeholder="type userid here">
+        </div>
+        <div class="form-group">
+                <label for="">password</label>
+                <input ng-model="user.pwd" type="password"  class="form-control"  placeholder="type paswword here">
+            </div>
+                <div form-group>
+                    <button ng-click="login()" class="btn btn-success">Login</button>
+                </div>
+    </div>
